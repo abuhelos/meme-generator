@@ -1,6 +1,6 @@
 # Meme Generator
 
-Made with create-react-app. Generates a random image that adds customized text to the top and bottom portions of the image.
+Made with create-react-app. Generates a random image that can be given customized text to the top and bottom portions of the image.
 
 ## What I learned
 
